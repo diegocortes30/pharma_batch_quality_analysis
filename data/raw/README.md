@@ -1,0 +1,1 @@
+Download the 3 CSV files (Laboratory, Process and Normalization) from the [Big data collection in pharmaceutical manufacturing](https://figshare.com/collections/Cholessterol-Lowering_Drug_Process_and_Quality_Data/5645578) dataset on figshare and place them here. These files are not included in the repository.
