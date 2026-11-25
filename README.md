@@ -71,6 +71,14 @@ Strong correlations with API particle size (ρ = −0.66) and API content (ρ = 
 
 
 ---
+## Dashboard
+
+Interactive Power BI dashboard with filters by dose, API source and date.
+
+![Dashboard](reports/figures/dashboard.png)
+
+
+---
 
 ## Recommendations
 
